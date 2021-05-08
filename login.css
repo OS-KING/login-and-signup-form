@@ -1,0 +1,77 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Tajawal', sans-serif;
+}
+html
+{
+    background-color: tomato;
+}
+.form-item
+{
+    width: 30%;
+    height: 500px;
+    background-color: #111;
+    margin: 80px auto;
+    padding: 10px;
+}
+.form-item-title
+{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 39px;
+    text-transform: capitalize;
+    margin-top: 50px;
+}
+input
+{
+    height: 20px;
+    padding: 7px 10px;
+    font-size: large;
+    margin: 20px 5px;
+    outline: none;
+    border: none;
+    background: none;
+    color: white;
+    border-bottom: 2px solid tomato;
+    border-radius: 2px;
+}
+form
+{
+    margin: 30px 0;
+}
+input
+{
+    width: 63%;
+    margin-left: 60px;
+}
+.form-btn
+{
+    width: 30%;
+    padding: 5px 25px;
+    margin: 20px 130px;
+    font-size: 15px;
+    text-transform: capitalize;
+    cursor: pointer;
+    outline: none;
+    border: 2px solid tomato;
+    border-radius: 2px;
+    background: none;
+    color: white;
+}
+
+.form-desc
+{
+    color: white;
+    font-size: 19px;
+    text-align: center;
+}
+.form-desc a
+{
+    text-decoration: none;
+}
+.form-desc a b
+{
+    color: tomato;
+}
